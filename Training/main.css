@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+
+video {
+    background-color: black;
+}
+
+.vids {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+}
+
+.vidd {
+    width: 100%;
+    border: 10px red solid;
+
+}
